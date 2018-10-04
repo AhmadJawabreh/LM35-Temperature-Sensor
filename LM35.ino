@@ -1,6 +1,4 @@
 /*        
- * Design and implement a circuit using arduino and other 
- * components to read +ve and -ve temprature values.
  *         Palestine Polytechnic University
  *  College of Information Technology and Computer Engineering 
  *       Department of Computer Systems Engineering 
